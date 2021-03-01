@@ -1,15 +1,27 @@
 .header {
+
 }
 .avatar {
     display: flex;
 }
 .avatar-image {
-    width: 700px;
-    height: 500px;
+    width: 250px;
+    height: 200px;
     margin: 0 auto;
 }
-.options {
+.section {
+
 }
 .params {
     list-style: none;
+}
+.main {
+    display: flex;
+    justify-content: space-between;
+}
+.mainblock {
+    width: 600px;
+    height: 500px;
+    margin: 0 auto;
+    border: 1px black solid;
 }
